@@ -1,4 +1,4 @@
-module github.com/swaggo/files
+module github.com/sendya/files
 
 go 1.15
 
